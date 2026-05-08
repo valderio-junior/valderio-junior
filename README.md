@@ -6,7 +6,7 @@
 
 ## 🎯 Sobre Mim
 
-Iniciante em cibersegurança com interesse em automação e análise de dados. Estou desenvolvendo conhecimento em segurança de sistemas e infraestrutura em nuvem.
+Iniciante em cibersegurança. Estou desenvolvendo conhecimento em Segurança da Informação, Infraestrutura e Suporte Técnico.
 
 ---
 
@@ -45,9 +45,9 @@ Iniciante em cibersegurança com interesse em automação e análise de dados. E
 
 ## 📞 Conecte-se Comigo
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/seu-usuario)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/seu-usuario)
-[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seu-email@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/valderio/)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/valderio-junior)
+[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:valderiojunior2024@gmail.com)
 
 ---
 
