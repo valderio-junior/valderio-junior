@@ -30,7 +30,7 @@
 
 ## 📫 Contato
 
-* E-mail: [seuemail@email.com](mailto:valderiojunior2024@email.com)
+* E-mail: [valderiojunior2024@email.com](mailto:valderiojunior2024@email.com)
 
 ---
 
