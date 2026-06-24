@@ -2,8 +2,6 @@
 
 ### Desenvolvedor Full Stack
 
-Construindo aplicações modernas, escaláveis e orientadas a boas práticas utilizando Java no backend e React no frontend.
-
 ---
 
 ## 🚀 Stack Principal
@@ -33,15 +31,14 @@ Construindo aplicações modernas, escaláveis e orientadas a boas práticas uti
 
 ## 💡 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em me tornar Engenheiro de Software.
 
 Tenho interesse em:
 
 - Desenvolvimento de APIs REST
 - Arquitetura de Software
-- Cloud Computing
-- Boas práticas de desenvolvimento
-- Aplicações escaláveis
+- Boas práticas de Desenvolvimento
+- Aplicações Escaláveis
 
 ---
 
@@ -53,18 +50,10 @@ Tenho interesse em:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
----
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/seu-linkedin
-- GitHub: https://github.com/SEU_USUARIO
+- LinkedIn: https://www.linkedin.com/in/valderio/
 
 ---
 
