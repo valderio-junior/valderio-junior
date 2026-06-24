@@ -1,7 +1,5 @@
 # Olá, eu sou Valdério Júnior 👋
 
-### Desenvolvedor Full Stack
-
 ---
 
 ## 🚀 Stack Principal
