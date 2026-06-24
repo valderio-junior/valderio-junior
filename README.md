@@ -8,8 +8,6 @@
 - Java
 - Spring Boot
 - APIs REST
-- JPA / Hibernate
-- Maven
 
 ### Frontend
 - JavaScript
